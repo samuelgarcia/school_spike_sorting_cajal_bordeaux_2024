@@ -12,25 +12,24 @@ Material for the spike sorting/SpikeInterface training day, part of the [Cajal m
 
 ## Schedule
 
-11.00-12.30h and 14.00 to 19.00h.
-
-
 
 Tuesday 19th November
 
 11:00-11:45 Introduction to spike sorting
+
 11:45-12:300 Overview of SpikeInterface + demo
 
 
 14:00 18:00 : SpikeInterface detailed handons and tutorials
-    * Object interaction cookbook 15min
-    * Probe handling 15min
-    * Preprocessing  20min
-    * Drift with generated data 20min
-    * Postprocessing 20min
-    * Visualization (Sortingview, Sigui) 20min
-    * Metrics & Curation (Automerge, etc.) 20min
-    * Sorting on your own dataset 30min
+
+  * Object interaction cookbook 15min
+  * Probe handling 15min
+  * Preprocessing  20min
+  * Drift with generated data 20min
+  * Postprocessing 20min
+  * Visualization (Sortingview, Sigui) 20min
+  * Metrics & Curation (Automerge, etc.) 20min
+  * Sorting on your own dataset 30min
 
 18:00 19:00 EMUsort Samuel Sober
 
