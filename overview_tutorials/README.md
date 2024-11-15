@@ -1,5 +1,4 @@
-# SpikeInterface DEMO v0.101 - Edimburgh - May 2024
-
+# SpikeInterface DEMO v0.101
 
 In this demo, you will use SpikeInterface to analyze a dataset recordinded with cambridge neurotec probe.
 

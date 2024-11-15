@@ -8,6 +8,8 @@ hdbscan
 pyqtgraph
 ipywidgets
 ipympl
+ipytree
 ephyviewer
 spikeinterface-gui
 kilosort
+mtscomp
